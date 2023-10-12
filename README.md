@@ -15,7 +15,7 @@ steps:
       SBT_VERSION: "1.9.6"
 ```
 
-Java 17 and Sbt 1.9.6 will be used be default if you don't specify any values.
+Java 17 and Sbt 1.9.6 will be installed be default if you don't specify any values.
 
 **Supported Java Versions**: 8, 11, 17, 19, 20, 21.</br>
 **Supported Sbt Versions**: all.

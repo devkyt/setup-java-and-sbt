@@ -1,6 +1,6 @@
-# Setup Java and Maven
+# Setup Java and Sbt
 
-Yet another action to setup Java and Maven on Linux or MacOS. It uses [GraalVM](https://github.com/graalvm) as a JDK distribution.<br>
+Yet another action to setup Java and Sbt on Linux or MacOS. It uses [GraalVM](https://github.com/graalvm) as a JDK distribution.<br>
 
 ## Usage
 

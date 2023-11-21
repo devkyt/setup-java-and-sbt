@@ -9,7 +9,7 @@ Here we go:
 ```yaml
 steps:
   - name: Install Java and Sbt
-    uses: s8ckerpunch/setup-java-and-sbt@v0.1
+    uses: devkyt/setup-java-and-sbt@v0.1
     with:
       JAVA_VERSION: "11"
       SBT_VERSION: "1.9.6"
